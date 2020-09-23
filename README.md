@@ -1,5 +1,6 @@
 PySailocus
 ==================
+Created By: Paul DiCarlo
 
 Python, Tkinter, & Forces on a Sail....
 
