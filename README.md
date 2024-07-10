@@ -10,6 +10,8 @@ Python, Tkinter, & Forces on a Sail....
 >     https://en.wikipedia.org/wiki/Forces_on_sails
 
 
+## To Run
+cd to src directory and use run.sh there 
 
 #### Background
 Sailocus is an attempt to write code that will explore the aerodynamic forces on sails.  It is meant to be a development exercise to build my proficiency in some new programming languages... as well as better understand forces on sails... and maybe even design my own sails someday.
